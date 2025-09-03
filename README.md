@@ -5,9 +5,13 @@ Diamond is a website focused in to-do funcionality. It includes a login system, 
 	<img src="img/f1.png" height="500" alt="teaser image" align=center />
 </div>
 
+## How it works
+This project was made with Python, Flask to start a http server, sqlalchemy for database administration.
+The front was made with basic HTML/CSS/JS.
+
 ## How to run
 In order to run it, you need to have <b>python 3.x</b>, and <b>git</b>.
-The following sequence of commands will activate the server in the 5000 port. It's recommend to use git bash.
+The following sequence of commands will activate the server in the <b>5000</b> port. It's recommend to use git bash.
 
 
 ```bash
